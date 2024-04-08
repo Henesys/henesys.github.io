@@ -10,7 +10,7 @@ title = "Portfolio"
   rtl = false
   dateFormat = "2 January 2006"
 
-  logo = "img/Psyduck.jpg" # --> top left
+  logo = "img/logo.png" # --> 임시
   # secondaryLogo = "img/background.JPEG" # --> top left bg
   
   description = "Portfolio | HS"
@@ -19,7 +19,7 @@ title = "Portfolio"
 [author]
    name = "Henesys"
    image = "img/Psyduck.jpg"
-   headline = "Python + R + SQL + Data Analytics"
+   headline = "Aspiring Data Scientist"
    bio = "MCS Student @ UIUC"
    links = [
      { github = "https://github.com/Henesys" }
