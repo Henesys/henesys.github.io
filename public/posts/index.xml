@@ -6,15 +6,25 @@
     <description>Recent content in Posts on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Henesys</copyright>
+    <copyright>© 2024 Henesys</copyright>
     <atom:link href="https://henesys.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://henesys.github.io/posts/readme/</link>
+      <link>https://henesys.github.io/posts/202401-deep-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://henesys.github.io/posts/readme/</guid>
-      <description>B</description>
+      <guid>https://henesys.github.io/posts/202401-deep-learning/</guid>
+      <description>Index 1 #</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://henesys.github.io/posts/202401-introduction-to-statistical-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://henesys.github.io/posts/202401-introduction-to-statistical-learning/</guid>
+      <description>Index 2 #</description>
       
     </item>
     

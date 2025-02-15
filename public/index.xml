@@ -6,8 +6,18 @@
     <description>Recent content on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Henesys</copyright>
+    <copyright>© 2024 Henesys</copyright>
     <atom:link href="https://henesys.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>https://henesys.github.io/resume/</link>
+      <pubDate>Mon, 07 Aug 2023 12:49:48 +0000</pubDate>
+      
+      <guid>https://henesys.github.io/resume/</guid>
+      <description>Experience CompanyRoleDateLocationWeb Developer- Senior Team LeadAug 2019 - May 2022Full RemoteChampaign, ILEducation SchoolDegreeDateMCS in Computer Science2024BS in Statistics</description>
+      
+    </item>
+    
     <item>
       <title></title>
       <link>https://henesys.github.io/about/readme/</link>
@@ -20,11 +30,21 @@
     
     <item>
       <title></title>
-      <link>https://henesys.github.io/posts/readme/</link>
+      <link>https://henesys.github.io/posts/202401-deep-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://henesys.github.io/posts/readme/</guid>
-      <description>B</description>
+      <guid>https://henesys.github.io/posts/202401-deep-learning/</guid>
+      <description>Index 1 #</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://henesys.github.io/posts/202401-introduction-to-statistical-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://henesys.github.io/posts/202401-introduction-to-statistical-learning/</guid>
+      <description>Index 2 #</description>
       
     </item>
     
@@ -45,16 +65,6 @@
       
       <guid>https://henesys.github.io/readme/</guid>
       <description>Placeholder</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://henesys.github.io/resume/readme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://henesys.github.io/resume/readme/</guid>
-      <description>D</description>
       
     </item>
     
