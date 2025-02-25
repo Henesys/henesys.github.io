@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Portfolio</title>
-    <link>https://henesys.github.io/about/</link>
+    <link>http://localhost:1313/about/</link>
     <description>Recent content in Abouts on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Henesys</copyright>
-    <atom:link href="https://henesys.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Henesys</copyright>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://henesys.github.io/about/readme/</link>
+      <link>http://localhost:1313/about/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://henesys.github.io/about/readme/</guid>
+      <guid>http://localhost:1313/about/readme/</guid>
       <description>A</description>
       
     </item>

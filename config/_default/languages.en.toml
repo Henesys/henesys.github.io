@@ -20,7 +20,7 @@ title = "Portfolio"
    name = "Henesys"
    image = "img/Psyduck.jpg"
    headline = "Aspiring Data Scientist"
-   bio = "MCS Student @ UIUC"
+   bio = "BS Statistics & MCS (Data Science) @ UIUC"
    links = [
      { github = "https://github.com/Henesys" }
    ]

@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Portfolio</title>
-    <link>https://henesys.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Henesys</copyright>
-    <atom:link href="https://henesys.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Henesys</copyright>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://henesys.github.io/posts/202401-deep-learning/</link>
+      <link>http://localhost:1313/posts/202401-deep-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://henesys.github.io/posts/202401-deep-learning/</guid>
+      <guid>http://localhost:1313/posts/202401-deep-learning/</guid>
       <description>Index 1 #</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>https://henesys.github.io/posts/202401-introduction-to-statistical-learning/</link>
+      <link>http://localhost:1313/posts/202401-introduction-to-statistical-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://henesys.github.io/posts/202401-introduction-to-statistical-learning/</guid>
+      <guid>http://localhost:1313/posts/202401-introduction-to-statistical-learning/</guid>
       <description>Index 2 #</description>
       
     </item>

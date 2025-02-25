@@ -38,7 +38,7 @@ layoutBackgroundHeaderSpace: false
     <tbody>
         <tr>
             <td style="vertical-align: middle;"><img class="customEntitityLogo" src="/resume/ATLAS.png" style="max-width: 100px; width: 100%; height: auto;"></td>
-            <td style="vertical-align: middle;">Web Developer- Senior Team Lead</td>
+            <td style="vertical-align: middle;">Web Developer (Senior Team Lead)</td>
             <td style="vertical-align: middle;">Aug 2019 - May 2022</td>
             <td style="vertical-align: middle;">Full Remote</br>Champaign, IL</td>
         </tr>
@@ -58,7 +58,7 @@ layoutBackgroundHeaderSpace: false
     <tbody>
         <tr>
             <td style="vertical-align: middle;"><img class="customEntitityLogo" src="/resume/UIUC.png" alt="UIUC Logo" style="max-width: 100px; width: 100%; height: auto;"/></td>
-            <td style="vertical-align: middle;">MCS in Computer Science</td>
+            <td style="vertical-align: middle;">MCS in Computer Science (Data Science)</td>
             <td style="vertical-align: middle;">2024</td>
         </tr>
         <tr>

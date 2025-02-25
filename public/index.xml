@@ -2,68 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio</title>
-    <link>https://henesys.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Henesys</copyright>
-    <atom:link href="https://henesys.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Henesys</copyright>
+    <lastBuildDate>Mon, 07 Aug 2023 12:49:48 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume</title>
-      <link>https://henesys.github.io/resume/</link>
+      <link>http://localhost:1313/resume/</link>
       <pubDate>Mon, 07 Aug 2023 12:49:48 +0000</pubDate>
       
-      <guid>https://henesys.github.io/resume/</guid>
-      <description>Experience CompanyRoleDateLocationWeb Developer- Senior Team LeadAug 2019 - May 2022Full RemoteChampaign, ILEducation SchoolDegreeDateMCS in Computer Science2024BS in Statistics</description>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>Experience CompanyRoleDateLocationWeb Developer (Senior Team Lead)Aug 2019 - May 2022Full RemoteChampaign, ILEducation SchoolDegreeDateMCS in Computer Science (Data Science)2024BS in Statistics</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>https://henesys.github.io/about/readme/</link>
+      <link>http://localhost:1313/about/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://henesys.github.io/about/readme/</guid>
+      <guid>http://localhost:1313/about/readme/</guid>
       <description>A</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>https://henesys.github.io/posts/202401-deep-learning/</link>
+      <link>http://localhost:1313/posts/202401-deep-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://henesys.github.io/posts/202401-deep-learning/</guid>
+      <guid>http://localhost:1313/posts/202401-deep-learning/</guid>
       <description>Index 1 #</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>https://henesys.github.io/posts/202401-introduction-to-statistical-learning/</link>
+      <link>http://localhost:1313/posts/202401-introduction-to-statistical-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://henesys.github.io/posts/202401-introduction-to-statistical-learning/</guid>
+      <guid>http://localhost:1313/posts/202401-introduction-to-statistical-learning/</guid>
       <description>Index 2 #</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>https://henesys.github.io/projects/readme/</link>
+      <link>http://localhost:1313/projects/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://henesys.github.io/projects/readme/</guid>
+      <guid>http://localhost:1313/projects/readme/</guid>
       <description>C</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>https://henesys.github.io/readme/</link>
+      <link>http://localhost:1313/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://henesys.github.io/readme/</guid>
+      <guid>http://localhost:1313/readme/</guid>
       <description>Placeholder</description>
       
     </item>
