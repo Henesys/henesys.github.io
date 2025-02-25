@@ -3,19 +3,19 @@ title: "Resume"
 date: 2023-08-07T12:49:48Z
 draft: false
 
-showDate : false
-showDateUpdated : false
+showDate: false
+showDateUpdated: false
 
-showHeadingAnchors : false
-showPagination : false
-showReadingTime : false
+showHeadingAnchors: false
+showPagination: false
+showReadingTime: false
 
-showTableOfContents : true
-showTaxonomies : false 
-showWordCount : false
-showSummary : false
+showTableOfContents: true
+showTaxonomies: false
+showWordCount: false
+showSummary: false
 
-sharingLinks : false
+sharingLinks: false
 
 showEdit: false
 showViews: false
@@ -39,7 +39,7 @@ layoutBackgroundHeaderSpace: false
         <tr>
             <td style="vertical-align: middle;"><img class="customEntitityLogo" src="/resume/ATLAS.png" style="max-width: 100px; width: 100%; height: auto;"></td>
             <td style="vertical-align: middle;">Web Developer (Senior Team Lead)</td>
-            <td style="vertical-align: middle;">Aug 2019 - May 2022</td>
+            <td style="vertical-align: middle;">2019 - 2022</td>
             <td style="vertical-align: middle;">Full Remote</br>Champaign, IL</td>
         </tr>
     </tbody>

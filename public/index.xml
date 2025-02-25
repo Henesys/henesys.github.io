@@ -7,14 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Henesys</copyright>
-    <lastBuildDate>Mon, 07 Aug 2023 12:49:48 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/</guid>
+      <description>ImageTitleDescriptionLinkProject 1Data ScienceDescription 1Link 1Project 2Data AnalyticsDescription 2Link 2Project 3Machine LearningDescription 3Link 3</description>
+      
+    </item>
+    
     <item>
       <title>Resume</title>
       <link>http://localhost:1313/resume/</link>
       <pubDate>Mon, 07 Aug 2023 12:49:48 +0000</pubDate>
       
       <guid>http://localhost:1313/resume/</guid>
-      <description>Experience CompanyRoleDateLocationWeb Developer (Senior Team Lead)Aug 2019 - May 2022Full RemoteChampaign, ILEducation SchoolDegreeDateMCS in Computer Science (Data Science)2024BS in Statistics</description>
+      <description>Experience CompanyRoleDateLocationWeb Developer (Senior Team Lead)2019 - 2022Full RemoteChampaign, ILEducation SchoolDegreeDateMCS in Computer Science (Data Science)2024BS in Statistics</description>
       
     </item>
     
