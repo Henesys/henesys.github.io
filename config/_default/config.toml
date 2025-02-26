@@ -17,6 +17,9 @@ buildFuture = false
 
 # googleAnalytics = "G-XXXXXXXXX"
 
+[pagination]
+  pagerSize = 18
+
 [imaging]
 anchor = 'Center'
 
