@@ -18,7 +18,7 @@ description = "Portfolio | HS"
 
 [author]
 name = "Hyo Sup Kim"
-image = "img/Psyduck.jpg"
+image = "img/psyduck.jpg"
 headline = "Data Scientist"
 bio = "BS Statistics & MCS (Data Science) @ UIUC"
 links = [
