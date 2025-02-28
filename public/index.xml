@@ -30,16 +30,6 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/about/readme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/readme/</guid>
-      <description>A</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://localhost:1313/posts/202401-deep-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -65,6 +55,16 @@
       
       <guid>http://localhost:1313/readme/</guid>
       <description>Placeholder</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hello | 안녕하세요 👋🔭 I graduated with a MCS degree with a focus in data science from the University of Illinois Urbana Champaign (UIUC). 🌱 I’m eager to apply my skills in data science, machine learning, and deep learning to challenging real-world problems.</description>
       
     </item>
     
