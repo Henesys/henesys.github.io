@@ -30,20 +30,20 @@ layoutBackgroundHeaderSpace: false
             <th>Image</th>
             <th>Title</th>
             <th>Description</th>
-            <th>Link</th>
+            <th>Reference</th>
         </tr>
     </thead>
     <tbody>
          <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent; max-width: 100px; width: 100%; height: auto;" src="img/kecleon.jpg" /></td>
+            <td><img class="customEntitityAlbum" style="background-color:transparent; max-width: 100px; width: 100%; height: auto;" src="img/kaggle.png" /></td>
             <td>
-              Project 1
+              Kaggle
               {{< badge >}}
               Data Science
               {{< /badge >}}
             </td>
-            <td>Description 1</td>
-            <td><a target="_blank" href="https://github.com/Henesys">Link 1</a></td>
+            <td>A collection of Kaggle notebooks and competition submissions created by me.</td>
+            <td><a target="_blank" href="https://github.com/Henesys/Kaggle">GitHub</a></td>
         </tr>
          <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent; max-width: 100px; width: 100%; height: auto;" src="img/kecleon.jpg" /></td>
