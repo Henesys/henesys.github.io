@@ -10,7 +10,7 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 
-logo = "img/logo.png" # --> 임시
+logo = "img/logo-invert.png" # --> 임시
 # secondaryLogo = "img/background.JPEG" # --> top left bg
 
 description = "Portfolio | HS"
