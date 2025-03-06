@@ -7,14 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Hyo Sup Kim</copyright>
-    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyzing Data from SBS&#39;s Variety Show Running Man (런닝맨): Week 1</title>
+      <link>http://localhost:1313/posts/030525-runningman-w1/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/030525-runningman-w1/</guid>
+      <description>Analysis, science and visualization of data collected from the South Korean variety show &amp;lsquo;Running Man&amp;rsquo; (런닝맨)</description>
+      
+    </item>
+    
     <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/</guid>
-      <description>ImageTitleDescriptionReferenceKaggleData ScienceA collection of Kaggle notebooks and competition submissions created by me.GitHubProject 2Data AnalyticsDescription 2Link 2Project 3Machine LearningDescription 3Link 3</description>
+      <description>ImageTitleDescriptionReferenceKagglePythonA collection of Kaggle notebooks and competition submissions created by me.GitHubDataset AnalysisTableauDashboard and visualization using the World Bank Group&#39;s United Nations dataset.</description>
       
     </item>
     
@@ -30,21 +40,11 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/202401-deep-learning/</link>
+      <link>http://localhost:1313/posts/030625-p4da/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/202401-deep-learning/</guid>
-      <description>Index 1 #</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/posts/202401-introduction-to-statistical-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/202401-introduction-to-statistical-learning/</guid>
-      <description>Index 2 #</description>
+      <guid>http://localhost:1313/posts/030625-p4da/</guid>
+      <description></description>
       
     </item>
     

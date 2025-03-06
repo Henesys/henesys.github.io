@@ -39,33 +39,33 @@ layoutBackgroundHeaderSpace: false
             <td>
               Kaggle
               {{< badge >}}
-              Data Science
+              Python
               {{< /badge >}}
             </td>
             <td>A collection of Kaggle notebooks and competition submissions created by me.</td>
             <td><a target="_blank" href="https://github.com/Henesys/Kaggle">GitHub</a></td>
         </tr>
          <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent; max-width: 100px; width: 100%; height: auto;" src="img/kecleon.jpg" /></td>
+            <td><img class="customEntitityAlbum" style="background-color:transparent; max-width: 100px; width: 100%; height: auto;" src="img/tableau.png" /></td>
             <td>
-              Project 2
+              Dataset Analysis
               {{< badge >}}
-              Data Analytics
+              Tableau
               {{< /badge >}}
             </td>
-            <td>Description 2</td>
-            <td><a target="_blank" href="https://github.com/Henesys">Link 2</a></td>
+            <td>Dashboard and visualization using the World Bank Group's United Nations dataset.</td>
+            <td><a target="_blank" href="https://public.tableau.com/app/profile/hyo.sup.kim/viz/CS416Dashboard_16871158006460/Dashboard">Tableau Public</a></td>
         </tr>
         <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent; max-width: 100px; width: 100%; height: auto;" src="img/kecleon.jpg" /></td>
+            <td><img class="customEntitityAlbum" style="background-color:transparent; max-width: 100px; width: 100%; height: auto;" src="img/android.png" /></td>
             <td>
-              Project 3
+              Android App
               {{< badge >}}
-              Machine Learning
+              Java
               {{< /badge >}}
             </td>
-            <td>Description 3</td>
-            <td><a target="_blank" href="https://github.com/Henesys">Link 3</a></td>
+            <td>Android weather app that uses Google API to pull location data and has a built-in user authentication protocol to store user preferences.</td>
+            <td><a target="_blank" href="https://github.com/ChinuSaraf/CS-427-Team-26-Term-Project">GitHub</a></td>
         </tr>
     </tbody>
 </table>
