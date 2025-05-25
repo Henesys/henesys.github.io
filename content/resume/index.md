@@ -36,13 +36,27 @@ layoutBackgroundHeaderSpace: false
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td style="vertical-align: middle;"><img class="customEntitityLogo" src="/resume/ATLAS.png" style="max-width: 100px; width: 100%; height: auto;"></td>
-            <td style="vertical-align: middle;">Web Developer (Senior Team Lead)</td>
-            <td style="vertical-align: middle;">2019 - 2022</td>
-            <td style="vertical-align: middle;">Full Remote</br>Champaign, IL</td>
-        </tr>
-    </tbody>
+    <tr>
+      <td style="vertical-align: middle;">
+        Self-Employed
+      </td>
+      <td style="vertical-align: middle;">
+        Roofing & Construction Analyst
+      </td>
+      <td style="vertical-align: middle;">2017 – 2025</td>
+      <td style="vertical-align: middle;">Crystal Lake, IL</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: middle;">
+        <img class="customEntitityLogo" src="/resume/ATLAS.png" alt="ATLAS Logo" style="max-width: 100px; width: 100%; height: auto;">
+      </td>
+      <td style="vertical-align: middle;">
+        Web Developer (Senior Team Lead)
+      </td>
+      <td style="vertical-align: middle;">2019 – 2022</td>
+      <td style="vertical-align: middle;">Full Remote / Champaign, IL</td>
+    </tr>
+  </tbody>
 </table>
 
 ## Education

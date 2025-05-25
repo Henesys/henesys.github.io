@@ -106,7 +106,7 @@
     "keywords": ["Data Analysis","Data Science","Data Visualization"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "237"
+    "wordCount": "639"
   }]
   </script>
 
@@ -577,7 +577,7 @@
 <div style="cursor: default;" class="flex flex-row flex-wrap items-center">
   
   
-  <span title="Reading time">2 mins</span>
+  <span title="Reading time">3 mins</span>
   
 
   
@@ -702,8 +702,9 @@
     <nav id="TableOfContents">
   <ul>
     <li><a href="#how-did-i-get-here">How Did I Get Here?</a></li>
-    <li><a href="#the-show">The Show</a></li>
-    <li><a href="#the-data">The Data</a></li>
+    <li><a href="#about-the-show">About The Show</a></li>
+    <li><a href="#about-the-data">About The Data</a></li>
+    <li><a href="#initial-plans">Initial Plans</a></li>
   </ul>
 </nav>
   </div>
@@ -718,8 +719,9 @@
     <nav id="TableOfContents">
   <ul>
     <li><a href="#how-did-i-get-here">How Did I Get Here?</a></li>
-    <li><a href="#the-show">The Show</a></li>
-    <li><a href="#the-data">The Data</a></li>
+    <li><a href="#about-the-show">About The Show</a></li>
+    <li><a href="#about-the-data">About The Data</a></li>
+    <li><a href="#initial-plans">Initial Plans</a></li>
   </ul>
 </nav>
   </div>
@@ -824,28 +826,52 @@
 <p>Needless to say, the aftermath of this issue and the consequences that followed have not left me impressed. Therefore, after days of deliberation, I decided to enter the job market in mid-January.</p>
 <p>Finding myself woefully unprepared and outmatched by other candidates after dozens of applications, I decided to get back to basics and approach the goal of getting a job offer like an assignment: something I&rsquo;ve done for years at this point.</p>
 <p>After seeing testimonies (and complaints) about how recruiters constantly see the same Kaggle Titanic competition &ldquo;project&rdquo;, COVID-19 dataset analysis and TODO app, I decided to start a project using a dataset I collected by myself and try to make something useful out of it.</p>
-<h2 class="relative group">The Show 
-    <div id="the-show" class="anchor"></div>
+<h2 class="relative group">About The Show 
+    <div id="about-the-show" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#the-show" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#about-the-show" aria-label="Anchor">#</a>
     </span>        
     
 </h2>
-<p>X</p>
-<h2 class="relative group">The Data 
-    <div id="the-data" class="anchor"></div>
+<p>Running Man (런닝맨) is a TV show that first aired in July 11th, 2010 and is South Korea&rsquo;s <em>longest</em> running variety show.</p>
+<p>Although the show has evolved and change drastically since its conception, the core premise- a standard cast with occasional guests invited to play games, compete in quizzes, complete missions has been preserved.</p>
+<p>I&rsquo;m personally a long-time viewer of the show and it has accompanied me weekly in middle school, high school and even now as an adult to some extent.</p>
+<p>The longevity of the show comes with its own highs and lows. Changes in the format, showrunner (colloquially known as PD in Korea), main cast and changes in time have all affected the viewership of the show during the almost 15 years it has been on air.</p>
+<h2 class="relative group">About The Data 
+    <div id="about-the-data" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#the-data" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#about-the-data" aria-label="Anchor">#</a>
     </span>        
     
 </h2>
-<p>X</p>
+<p>As a fan of the show, my goal with this project is to create a dataset with readily available information and combine it with some unique points of interests in an effort to visualize and analyze its performance through time.</p>
+<p>Information about the show&rsquo;s episode number, air date, guests and ratings have been somewhat arranged in a tabular format in <a href="https://en.wikipedia.org/wiki/Running_Man_%28TV_program%29#Ratings"   target="_blank">
+    Wikipedia</a>.</p>
+<p>There are also people who have published datasets on <a href="https://www.kaggle.com/datasets/zeeniye/running-man-korean-show-wikipedia/data"   target="_blank">
+    Kaggle</a> webscraping from the same Wikipedia source.</p>
+<p>My intention while creating this dataset is to again, create my custom dataset and enhance it via information available on <a href="https://namu.wiki/w/%EB%9F%B0%EB%8B%9D%EB%A7%A8#s-3"   target="_blank">
+    Namu Wiki</a> and some manual data collection I will be conducting by myself.</p>
+<h2 class="relative group">Initial Plans 
+    <div id="initial-plans" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#initial-plans" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>Undertaking the creation of the dataset might sound easy on paper, but it can quickly become convoluted once you consider certain tasks that need to be addressed properly.</p>
+<p>Right off the bat, I&rsquo;m seeing some potential data validation issues between Wikipedia, Namu Wiki, Parrot Analytics, TNmS Ratings and Naver (Later Nielsen) Ratings.</p>
+<p>In addition, I&rsquo;m seeing inconsistencies with the way certain names are romanized from Korean to English, which means I may consider opting to sanitize the dataset by entering guest names in Korean entirely and finding a way to disambiguate different guests with the same Korean name.</p>
+<p>Results, teams and differences in the <em>dimensions</em> of the dataset through out different years (e.g. 2010 cast members are different than 2025 cast members) will also require additional attention.</p>
+<p>I plan to try and build a working version of the datasets in the second week of this project and conduct feature engineering as needed if additional touches are required for proper use.</p>
 
         </div>
                 
@@ -858,6 +884,154 @@
 
 <h2 class="mt-8 text-2xl font-extrabold mb-10">Related</h2>
 <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+  
+  
+
+  <a href="/posts/031225-runningman-w2/" class="min-w-full">
+    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative backdrop-blur">
+
+      <div class="px-6 py-4">
+
+        
+        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+          href="/posts/031225-runningman-w2/">Analyzing Data from SBS's Variety Show Running Man (런닝맨): Week 2</div>
+        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="cursor: default;" class="flex flex-row flex-wrap items-center">
+  
+  
+  <span title="Reading time">1 min</span>
+  
+
+  
+  
+</div>
+
+
+<div style="cursor: pointer;" class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+
+
+
+<div style="cursor: pointer;" class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/categories/blog/&#34;,'_self');">
+    <span class="flex">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
+  >
+    Blog
+  </span>
+</span>
+
+  </span>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/data-analysis/&#34;,'_self');">
+    <span class="flex">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
+  >
+    Data Analysis
+  </span>
+</span>
+
+  </span>
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/data-science/&#34;,'_self');">
+    <span class="flex">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
+  >
+    Data Science
+  </span>
+</span>
+
+  </span>
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/data-visualization/&#34;,'_self');">
+    <span class="flex">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
+  >
+    Data Visualization
+  </span>
+</span>
+
+  </span>
+  
+  
+  
+  
+</div>
+
+
+
+        </div>
+
+        
+      </div>
+      <div class="px-6 pt-4 pb-2">
+
+      </div>
+    </div>
+  </a>
   
   
 
@@ -987,6 +1161,26 @@
           
         </span>
         <span>
+          
+            <a class="flex text-right group ml-3" href="/posts/031225-runningman-w2/">
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >Analyzing Data from SBS's Variety Show Running Man (런닝맨): Week 2</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                </span>
+              </span>
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+            </a>
           
         </span>
       </div>
